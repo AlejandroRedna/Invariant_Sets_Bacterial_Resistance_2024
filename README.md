@@ -1,4 +1,4 @@
-# Invariant set theory for streamlining the success of antibiotic cycling
+# Invariant set theory for predicting failure of antibiotic cycling 
 
 This repository contains the computation of invariant sets for switched linear systems, with applications to a model for bacteria evolution of resistance to antibiotics. It also contains the solutions of a network-based nonlinear model for bacteria dynamics population.
 
@@ -29,5 +29,7 @@ Alejandro Anderson: alelanderson@gmail.com
 Esteban Hernandez Vargas: esteban@uidaho.edu 
 
 ## Cite
-Cite the corresponding tool as follows: A. Anderson, M. W. Kinahan, A. H. Gonzalez, K. Udekwu, E. A. Hernandez-Vargas.
-Invariant set theory for streamlining the success of antibiotic cycling, Mathematical Biosciences, 2024.
+Cite the corresponding tool as follows: Alejandro Anderson, Matthew W. Kinahan, Alejandro H. Gonzalez, Klas Udekwu, Esteban A. Hernandez-Vargas.
+Invariant set theory for predicting potential failure of antibiotic cycling. Infectious Disease Modelling, 2025.
+
+
